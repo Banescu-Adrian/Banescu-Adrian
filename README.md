@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Banescu-Adrian
 - 👀 I’m interested in Php, Javascript
 - 🌱 I’m currently learning and working with Laravel, VueJS, InertiaJS, NodeJS
-- 🧮 Tools i've used: Docker, Homestead, VS Code, Php Storm, Vagrant, Github, Gitlab, Jira
+- 🧮 Tools i've used: Docker, Homestead, Vagrant
+  - 🔖 Github, Gitlab, Jira
+  - 📓 VS Code, Php Storm
 - 💞️ I’m looking to collaborate on Laravel projects
 
 <!---
