@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Banescu-Adrian
-- 👀 I’m interested in Php, Javascript, Rust
+- 👀 I’m interested in Php, Javascript, Rust, Java
 - 🌱 I’m currently learning and working with Laravel, VueJS, InertiaJS, NodeJS
 - 🧮 Tools i've used: Docker, Homestead, Vagrant
   - 🔖 Github, Gitlab, Jira
